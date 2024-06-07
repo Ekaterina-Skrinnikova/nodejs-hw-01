@@ -1,1 +1,22 @@
-[]
+{
+  "contacts": [
+    {
+      "name": "Patsy McKenzie",
+      "phone": "1-796-257-8071 x86497",
+      "email": "Ashton_Moen99@hotmail.com",
+      "job": "Dynamic Paradigm Facilitator"
+    },
+    {
+      "name": "Johnny Hirthe",
+      "phone": "356-865-0121 x0833",
+      "email": "Elody_Lindgren77@gmail.com",
+      "job": "District Markets Planner"
+    },
+    {
+      "name": "Charlene Lockman DVM",
+      "phone": "391.976.7032",
+      "email": "Kayla_Farrell16@yahoo.com",
+      "job": "Future Brand Planner"
+    }
+  ]
+}
